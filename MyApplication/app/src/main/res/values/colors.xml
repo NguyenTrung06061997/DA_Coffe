@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimarys">@color/material_grey_100</color>
+    <color name="colorPrimaryDark">#95F0EDED</color>
+    <color name="colorAccent">#f4511e</color>
+    <color name="colorHighlight">#F8C982</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorOrange">#C6BA17D5</color>
+    <color name="popup_top">#ffff792c</color>
+    <color name="background">#2FEEEAEA</color>
+    <color name="TCH">#ff9500</color>
+    <color name="moca_rs_black_two_50">#80000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="moca_rs_pinkish_grey_four">#d0d0d0</color>
+    <color name="colorBottomNav">#1B2F8D</color>
+    <color name="moca_rs_brownish_grey_four">#6e6e6e</color>
+    <color name="blue_sun">#42A5FC</color>
+    <color name="red">#F81100</color>
+</resources>

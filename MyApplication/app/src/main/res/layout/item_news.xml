@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_item_news"
+        android:backgroundTint="@color/colorWhite"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/sp20">
+
+
+        <com.makeramen.roundedimageview.RoundedImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/w200"
+            android:id="@+id/img_news"
+            android:src="@drawable/aaaaa"
+            android:scaleType="fitXY"
+            android:background="@color/background"
+            app:riv_corner_radius_top_left="@dimen/sp12"
+            app:riv_corner_radius_top_right="@dimen/sp12"/>
+        <TextView
+            android:id="@+id/title_news"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/sp12"
+            android:text="@string/title" />
+
+        <TextView
+            android:id="@+id/conten_news"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/sp12"
+            android:layout_marginBottom="@dimen/w5"
+            android:text="@string/title_new" />
+    </LinearLayout>
+
+</RelativeLayout>

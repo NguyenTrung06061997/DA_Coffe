@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DoAn_TN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_news">Tin tức</string>
+    <string name="title_order">Đặt hàng</string>
+    <string name="title_store">Cửa hàng</string>
+    <string name="title_profile">Tài khoản</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="title_newss">Tin Tức</string>
+    <string name="title">Tiều Đề</string>
+    <string name="title_new">Nội Dung</string>
+    <string name="danhchoiban">Dành Cho Bạn</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+
+</resources>
